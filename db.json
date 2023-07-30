@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "username": "Elmar",
+      "age": "17",
+      "password": "123",
+      "isAdmin": true,
+      "id": 1
+    },
+    {
+      "username": "elmar",
+      "age": "16",
+      "password": "123",
+      "isAdmin": true,
+      "id": 2
+    },
+    {
+      "username": "marzhan",
+      "age": "55",
+      "password": "123",
+      "isAdmin": true,
+      "id": 3
+    },
+    {
+      "username": "elmir",
+      "age": "23",
+      "password": "123",
+      "isAdmin": false,
+      "id": 4
+    }
+  ],
+  "tours": [
+    {
+      "id": 1,
+      "title": "Shibuya",
+      "desc": "Shibuya, located in Tokyo, Japan, is a vibrant and bustling district famous for its energetic nightlife and trendy fashion scene. It is a popular destination among both locals and tourists, offering a unique blend of modernity and traditional Japanese culture.",
+      "image": "https://i.pinimg.com/564x/52/b4/3c/52b43c926ef366f90bfce97a1a642725.jpg",
+      "perfecture": "Tokyo",
+      "perfectureImage": "./img/tokyo.png"
+    },
+    {
+      "id": 2,
+      "title": "Shinjuku",
+      "desc": "Shinjuku bustling urban district famous for its towering skyscrapers, vibrant entertainment, and diverse shopping areas. From the lively streets of Kabukicho to the tranquil beauty of Shinjuku Gyoen National Garden, Shinjuku offers a captivating blend of modernity and traditional charm.",
+      "image": "https://i.pinimg.com/736x/2f/8f/0a/2f8f0ac7b179045fc5626536b4dc924a.jpg",
+      "perfecture": "Tokyo"
+    },
+    {
+      "id": 4,
+      "title": "GInza",
+      "desc": " Ginza фт upscale and luxurious shopping district, Ginza is famed for its high-end boutiques, department stores, and exquisite dining options. This chic neighborhood exudes elegance and sophistication, making it a haven for fashion enthusiasts and discerning shoppers from around the world.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/San-ai_Building_at_night.jpg",
+      "perfecture": "Tokyo"
+    },
+    {
+      "id": 5,
+      "title": "Odaiba",
+      "desc": "Odaiba is a futuristic entertainment district in Tokyo, Japan, known for its high-tech attractions and stunning waterfront views.",
+      "image": "https://media.cntraveler.com/photos/5a8c5ee0a2fdaf4c74bb6085/16:9/w_2560,c_limit/Odaiba_2018_GettyImages-552605569.jpg",
+      "perfecture": "Tokyo",
+      "perfectureImage": ""
+    }
+  ]
+}
